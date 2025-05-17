@@ -35,5 +35,5 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=moeelbadri&layout=compact&theme=algolia"/> </p>
 
-<p align="center"> <a href="https://www.facebook.com/mohamed.elbadri.16"> <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=moeelbadri&layout=wide&show_reply=false&show_retweet=false" />
+<p align="center"> <a href="https://x.com/moe_elbadri20"> <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=moeelbadri&layout=wide&show_reply=false&show_retweet=false" />
 </a></p>
