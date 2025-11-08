@@ -23,10 +23,10 @@
 <h3>⚡ Recent GitHub Activity</h3>
 <br>
 
-![moeelbadri's github stats](https://github-readme-stats.vercel.app/api?username=moeelbadri&show_icons=true&theme=tokyonight)
+![moeelbadri's github stats](https://gitstats.ggpanel.site/api?username=moeelbadri&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeelbadri&theme=tokyonight" alt="mystreak"/>
 
-![moeelbadri's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeelbadri&theme=tokyonight&layout=compact)
+![moeelbadri's Top Langs](https://gitstats.ggpanel.site/api/top-langs/?username=moeelbadri&theme=tokyonight&layout=compact)
 
 
 <br/>
