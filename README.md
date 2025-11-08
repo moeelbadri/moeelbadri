@@ -28,7 +28,7 @@
 
 ![moeelbadri's Top Langs](https://gitstats.ggpanel.site/api/top-langs/?username=moeelbadri&theme=tokyonight&layout=compact)
 
-[![moeelbadri's WakaTime stats](https://gitstats.ggpanel.site/api/wakatime?username=medoelbadri)](https://github.com/moeelbadri/github-readme-stats)
+[![moeelbadri's WakaTime stats](https://gitstats.ggpanel.site/api/wakatime?username=medoelbadri)](https://github.com/moeelbadri)
 <br/>
 
 ## :trophy: Git profile Trophies
